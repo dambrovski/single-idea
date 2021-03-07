@@ -1,0 +1,25 @@
+{
+  "name": "single-idea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dambrovski/single-idea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dambrovski/single-idea/issues"
+  },
+  "homepage": "https://github.com/dambrovski/single-idea#readme",
+  "dependencies": {
+    "next": "^10.0.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
